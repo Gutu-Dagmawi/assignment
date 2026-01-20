@@ -33,7 +33,7 @@ Each team must select **ONE combination** from the 30 available combinations lis
 
 ### 6. Academic Integrity
 
-> **⚠️ WARNING**: Plagiarism of any sort will result in **immediate disqualification** and a score of **0/20**.
+> **WARNING**: Plagiarism of any sort will result in **immediate disqualification** and a score of **0/20**.
 
 This includes:
 
